@@ -3,7 +3,7 @@
 
 🖥️ As an Embedded Systems Developer & IoT passionate about Cybersecurity, I'm deeply interested in exploring the intersection of technology and social impact, and contributing to meaningful projects in this space.
 
-🌱 I’m currently learning about advanced algorithms in machine learning, enhancing my skills in JavaScript frameworks like React, and diving into the world of ethical hacking.
+🌱 I’m currently learning about encryption algorithms, enhancing my skills in cybersecurity tools, and diving into the world of ethical hacking.
 
 💞️ I’m looking to collaborate on projects that make a positive difference in people's lives, whether it's through innovative tech solutions, community initiatives, or open-source contributions.
 
