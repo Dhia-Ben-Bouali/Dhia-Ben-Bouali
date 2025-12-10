@@ -1,16 +1,61 @@
-👋 Hi, I’m @Dhia-Ben-Bouali
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:003049,100:0077b6&height=230&section=header&text=Dhia%20Ben%20Bouali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
+<h3 align="center">👨‍💻 SOC Monitoring | System Administration | Infrastructure Security | Cyber Operations 🔐</h3>
 
-🖥️ As an Embedded Systems Developer & IoT passionate about Cybersecurity, I'm deeply interested in exploring the intersection of technology and social impact, and contributing to meaningful projects in this space.
+## 🚀 About Me
+I’m passionate about cyber defense, system administration, and infrastructure security.  
+My work revolves around monitoring threats, securing systems, and strengthening environments using hands-on security practices.
 
-🌱 I’m currently learning about encryption algorithms, enhancing my skills in cybersecurity tools, and diving into the world of ethical hacking.
+I’m currently exploring:  
+- SOC monitoring & log analysis  
+- Threat detection & incident response  
+- Network & system hardening  
+- Security tools & automation  
+- Ethical hacking fundamentals  
 
-💞️ I’m looking to collaborate on projects that make a positive difference in people's lives, whether it's through innovative tech solutions, community initiatives, or open-source contributions.
+## 🛡️ Skills & Tools
 
-📫 How to reach me: Feel free to drop me a message here on GitHub or reach out via email at boualidhia76@gmail.com.
+### 🔧 Technologies & Domains
+- SOC Monitoring  
+- Digital Forensics Basics  
+- Incident Response  
+- Network & System Security  
+- Linux Administration  
+- Virtualization & Containerization  
+- Vulnerability Assessment  
 
-😄 Pronouns: He/Him
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,docker,git,github,bash,py,vscode" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,aws,grafana,prometheus,cloudflare" />
+</p>
 
-⚡ Fun fact: I love to explore different cuisines and experiment with cooking exotic dishes from around the world!
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhia-Ben-Bouali&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhia-Ben-Bouali&layout=compact&theme=tokyonight" />
+</p>
 
-🖥️ Embedded Systems Developer passionate about Startups, IoT, and Cybersecurity.
+## 🤝 Collaboration
+I'm open to working on:  
+- SOC or SIEM-related projects  
+- Cybersecurity labs and research  
+- Security automation & scripts  
+- Infrastructure monitoring setups  
+- Open-source cybersecurity tools  
+
+## 📫 Contact
+- Email: boualidhia76@gmail.com  
+- GitHub Messages: Always available for collaboration  
+
+## 😄 Pronouns
+He/Him  
+
+## ⚡ Fun Fact
+I always follow cybersecurity news to stay up to date with the latest threats, attacks, and security trends.
+
