@@ -56,6 +56,6 @@ I'm open to working on:
 ## 😄 Pronouns
 He/Him  
 
-## ⚡ Fun Fact
+## ⚡ Fact
 I always follow cybersecurity news to stay up to date with the latest threats, attacks, and security trends.
 
